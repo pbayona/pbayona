@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working mainly on **Unity and Unreal Engine projects**
 
-- ⚡ Find out more about me at my [portfolio](pbayona.github.io)
+- ⚡ Find out more about me at my [portfolio](https://pbayona.github.io/)
 
-- 🎮 And check my personal games [here!](pbayona.itch.io)
+- 🎮 And check my personal games [here!](https://pbayona.itch.io)
 
 - 📫 Or you can contact me via email: **pbayonag@hotmail.com**
 
